@@ -1,0 +1,10 @@
+1,Legume Cuptor,2.5
+2,Cozonac,0.7
+3,Bere,0.5
+4,Supa,3.2
+5,Cartofi,1.1
+6,Apa,2.7
+7,Inghetata,0.4
+8,Burger,3.9
+9,Papanasi,0.6
+10,Antricot,8.1
